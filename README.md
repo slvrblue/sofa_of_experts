@@ -1,1 +1,1 @@
-# sofa_of_experts
+# sofa-of-experts
